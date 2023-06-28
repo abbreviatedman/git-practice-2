@@ -3,3 +3,5 @@
 Have you ever programmed before?
 
 Have you used Macs a lot?
+
+What's your favorite cuisine?
